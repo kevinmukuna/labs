@@ -1,0 +1,8 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="admin" type="DatabaseScript" editBeforeRun="true">
+    <script-file value="C:/Program Files/MySQL/MySQL Workbench 8.0 CE/mysql.exe" />
+    <script-mode>FILE</script-mode>
+    <data-source id="91d909e2-70be-4454-ae2b-bff55be8e297" />
+    <method v="2" />
+  </configuration>
+</component>
